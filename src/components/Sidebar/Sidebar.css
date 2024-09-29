@@ -51,7 +51,7 @@
   cursor: pointer;
 }
 
-.sidebar .recent-entry :hover {
+.sidebar .recent :hover {
   background-color: #e2e6eb;
 }
 
@@ -63,4 +63,8 @@
 .sidebar .bottom-item {
   padding-right: 10px;
   cursor: pointer;
+}
+
+.sidebar .bottom :hover {
+  background-color: #e2e6eb;
 }
